@@ -1,0 +1,55 @@
+
+# CARGO
+
+
+/target/
+**/*.rs.bk
+
+
+
+# PYTHON
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# Ambiente virtual
+venv/
+.venv/
+env/
+
+# PyInstaller
+*.spec
+
+# EXECUTÁVEIS
+
+*.exe
+!newton.exe
+
+
+*.dll
+*.so
+*.dylib
+
+
+# IDE
+
+.vscode/
+.idea/
+*.code-workspace
+
+# SISTEMA
+
+.DS_Store
+Thumbs.db
+
+# LOGS
+
+*.log
+
+

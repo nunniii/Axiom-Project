@@ -1,0 +1,9 @@
+[package]
+name = "Axiom-Project"
+version = "0.1.0"
+edition = "2024"
+default-run = "Axiom-Project"
+
+[dependencies]
+meval = "0.2"
+num-complex = "0.4"
